@@ -10,5 +10,5 @@ $n = $n * 5000;
 
 
 echo "O valor da soma é $i";
-<br>
+
 echo "O valor da multiplicaçao é $n";
