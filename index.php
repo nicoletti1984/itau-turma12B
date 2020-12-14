@@ -4,6 +4,6 @@
 
 $i = 1;
 
-$i = $i + 500;
+$i = $i + 1000;
 
 echo "O valor da soma é $i";
