@@ -6,7 +6,7 @@ $i = 1;
 $n = 5;
 
 $i = $i + 500;
-$n = $n + 5000;
+$n = $n * 5000;
 
 
 echo "O valor da soma é $i";
