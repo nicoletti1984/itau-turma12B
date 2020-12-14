@@ -8,7 +8,7 @@ $n = 5;
 $i = $i + 500 - 300;
 $n = $n * 5000;
 
-echo "teste";
+echo "Hello World";
 
 echo "O valor da soma é $i";
 
