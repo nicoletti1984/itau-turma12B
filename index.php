@@ -10,3 +10,4 @@ $n = $n * 5000;
 
 
 echo "O valor da soma é $i";
+echo "O valor da multiplicaçao é $n";
